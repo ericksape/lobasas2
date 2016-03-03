@@ -1,0 +1,13 @@
+{
+  "name": "lobasas2",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
