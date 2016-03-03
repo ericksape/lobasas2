@@ -10,6 +10,7 @@
 	<ul>
 		<li><h1>ERICK MAS NA </h1></li>
 		<li><h1>EDGAR MAS NA </h1></li>
+		<li><h1>RUIZ MAS NA </h1></li>
 	</ul>
 </body>
 </html>
